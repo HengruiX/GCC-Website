@@ -95,9 +95,9 @@ figure {
 }
 
 .btn-primary {
-  background: #00ADB5;
+  background: #233A78;
   color: #fff;
-  border: 2px solid #00ADB5;
+  border: 2px solid #233A78;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #00c5cf !important;
@@ -645,9 +645,11 @@ figure {
   left: 0;
   right: 0;
   content: '';
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
+
+
 #fh5co-hero .flexslider .flex-control-nav {
   bottom: 40px;
   z-index: 1000;
