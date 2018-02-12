@@ -967,7 +967,7 @@ figure {
 }
 #fh5co-portfolio-section .portfolio-row-half .portfolio-grid-item:after {
   position: absolute;
-  background: rgba(0, 173, 181, 0.7) !important;
+  background: rgba(255,255,255, 0.25) !important;
   top: 0;
   bottom: 0;
   left: 0;
@@ -1039,7 +1039,7 @@ figure {
   content: '';
   border-top: 20px solid transparent;
   border-bottom: 20px solid transparent;
-  border-left: 20px solid #F36363;
+  border-left: 20px solid #233A78;
   z-index: 9;
 }
 #fh5co-portfolio-section .portfolio-row-half .portfolio-grid-item-color .desc {
@@ -1556,7 +1556,7 @@ figure {
 }
 
 #footer {
-  padding: 7em 0;
+  padding: 3em 0;
   float: left;
   width: 100%;
   background: rgba(21, 31, 44, 0.1);
